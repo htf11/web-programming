@@ -1,0 +1,22 @@
+body {
+    border: 2px solid black;
+    /* padding: 0 40px 0 40px; */
+}
+.top_header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px 30px 40px;
+    border-bottom: 2px solid black;
+}
+.top_contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.header_menu {
+    padding: 20px 40px 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+}
