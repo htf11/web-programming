@@ -1,2 +1,3 @@
 # web-programming
-Лабораторные работы по предмету web-программирование Инкина Александра Александровича группа ИТМ-22-1
+Inkin Alexander Alexandrovich ITM-22-1 group`s laboratory works on subject "Web-programming".
+Navigation through the laboratory works make by moving through the branches of the repository.
