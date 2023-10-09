@@ -1,5 +1,5 @@
 .header {
-    background: url(img/header.jpg) center center/cover no-repeat;
+    background: url(../img/header.jpg) center center/cover no-repeat;
     height: 540px;
     padding-bottom: 40px;
   }
@@ -117,3 +117,41 @@
     font-size: 17px;
   }
   
+  .bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text-btn {
+    text-decoration: none;
+  }
+  
+  .top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .position {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .space {
+    min-height: 55px;
+  }
+
+  .box-main {
+    display: flex;
+    flex-direction: row;
+  }
