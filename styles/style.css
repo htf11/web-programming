@@ -155,3 +155,17 @@
     display: flex;
     flex-direction: row;
   }
+
+  .box-item-pos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  @media (max-width: 1240px) {
+    .main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
