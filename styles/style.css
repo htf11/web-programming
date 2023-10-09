@@ -154,6 +154,8 @@
   .box-main {
     display: flex;
     flex-direction: row;
+    position: relative;
+    margin: -70px 40px 0 40px;
   }
 
   .box-item-pos {
