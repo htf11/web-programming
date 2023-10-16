@@ -56,12 +56,23 @@ body {
     font-size: 14px;
     font-family: "helveticaneuemedium";
     margin-bottom: 10px;
+    border: 0;
 }
+
 input {
     width: 98%;
     padding-left: 10px;
 }
+
 label {
     min-width: 400px;
     margin-left: 10px;
+}
+
+select {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
 }
