@@ -59,14 +59,27 @@ body {
     border: 0;
 }
 
+.checkout_elems {
+    height: 50px;
+    background-color: #f5f7fa;
+    color: #6b6b6b;
+    font-size: 14px;
+    font-family: "helveticaneuemedium";
+    margin-bottom: 10px;
+    border: 0;
+}
+
+.label_check {
+    min-width: 400px;
+    margin-left: 10px;
+}
+.clearfield {
+    
+}
+
 input {
     width: 98%;
     padding-left: 10px;
-}
-
-label {
-    min-width: 400px;
-    margin-left: 10px;
 }
 
 select {
