@@ -18,13 +18,14 @@ body {
 }
 
 .row-pos {
-    width: 100%;
+    width: 99%;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
-.space {
-   min-width: 10px;
+.div_double {
+    width: 48%;
 }
 
 .review {
@@ -36,11 +37,20 @@ body {
     text-align: start;
 }
 
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+}
+
 .check {
     display: flex;
     flex-direction: column;
     width: 100%;
-    align-items: flex-start;
 }
 
 .row-pos-check {
@@ -72,9 +82,6 @@ body {
 .label_check {
     min-width: 400px;
     margin-left: 10px;
-}
-.clearfield {
-    
 }
 
 input {
