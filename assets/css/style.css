@@ -1,8 +1,29 @@
 body {
+    background-color: #004c61;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     min-width: 800px;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.btn {
+    border: 2px solid black;
+    border-radius: 40px;
+    height: 50px;
+    width: 50px;
+    background: #8ecb00;
+}
+
+img {
+    max-height: 800px;
+    max-width: 600px;
 }
