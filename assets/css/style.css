@@ -1,5 +1,4 @@
 body {
-   /*  background-color: #004c61; */
     position: absolute;
     top: 50%;
     left: 50%;
@@ -27,15 +26,6 @@ body {
 
 .div_double {
     width: 48%;
-}
-
-.review {
-    height: 170px;
-    color: #6b6b6b;
-    font-size: 14px;
-    font-family: "helveticaneuemedium";
-    margin-bottom: 10px;
-    text-align: start;
 }
 
 .bottom {
